@@ -1,0 +1,5 @@
+{
+  "name": "organization 15-11",
+  "description": "A comprehensive dashboard to manage employees, beneficiaries, assistance types, and operations for a charity organization. It includes features for CRUD operations, searching, and exporting data to Excel.",
+  "requestFramePermissions": []
+}
